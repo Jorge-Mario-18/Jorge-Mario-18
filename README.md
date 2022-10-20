@@ -12,11 +12,18 @@
       <img src="https://komarev.com/ghpvc/?username=Jorge-Mario-18&style=flat-square&color=blue" alt=""/>
   </dic>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/2jMxXMfsJVJelv062L/giphy.gif" width="600" height="300"/>
+</div>
 
-### Hola! 👋
 
-My name is Jorge Mario Restrepo and I'm a junior Data Analysit with empahsis in football (soccer) 
+---
 
+### :soccer: :man_technologist: Hola! 👋
+
+My name is Jorge Mario Restrepo and I'm a junior Data Analyst with empahsis in football (soccer) 
+
+- I am a Data Analyst <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> from New York.
 
 
 
