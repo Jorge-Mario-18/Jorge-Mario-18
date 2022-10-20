@@ -2,6 +2,16 @@
   <img src="https://media.giphy.com/media/oiF19DoZ8MtZhnElOd/giphy.gif" width="100"/>
 </div>
 
+<div id="header" align="center">
+  <a href="https://www.linkedin.com/in/jorgemariorest">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div id="header" align="center">
+      <img src="https://komarev.com/ghpvc/?username=Jorge-Mario-18&style=flat-square&color=blue" alt=""/>
+  </dic>
+
 
 ### Hola! 👋
 
