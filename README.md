@@ -19,12 +19,14 @@
 
 ---
 
-### :soccer: :man_technologist: Hola! 👋
-
-My name is Jorge Mario Restrepo and I'm a junior Data Analyst with empahsis in football (soccer) 
-
-I am a Data Analyst <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> from New York.
-
+<div id="header" align="left">
+  <p> :soccer: :man_technologist: Hola! 👋 <p>
+<p> My name is Jorge Mario Restrepo and I'm a junior Data Analyst with empahsis in football (soccer) <p>
+<p> - :sunglasses: I am a junior Data Analyst <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> from New York.<p>
+  <p> - :round_pushpin: Working at E.L.F. Cosmetics as a photo asset intern <p>
+  <p> - :brain: Currently improving visualization and learning SQL <p>
+  <p> - :telescope: Want to learn C and C++ to dive into softwear engineering in the future <p>
+</div>
 
 
 
