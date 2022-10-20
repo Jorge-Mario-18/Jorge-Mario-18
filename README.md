@@ -1,4 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/oiF19DoZ8MtZhnElOd/giphy.gif" width="100"/>
+</div>
+
+
+### Hola! 👋
+
+My name is Jorge Mario Restrepo and I'm a junior Data Analysit with empahsis in football (soccer) 
+
+
+
+
 
 <!--
 **Jorge-Mario-18/Jorge-Mario-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
