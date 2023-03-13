@@ -24,7 +24,7 @@
 <p> - :sunglasses: I am a junior Data Analyst <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> from New York.<p>
   <p> - :brain: Currently improving data visualization and learning SQL <p>
   <p> - :telescope: Want to learn C and C++ to dive into software engineering in the future <p>
-  <p> - :spider_web: Visit my personal website which launched from home on a Rasberry pi running an Nginx server: https://jorgemario-rest.ddns.net <p>
+  <p> - :spider_web: Visit my website which I launched from home on a Rasberry Pi running an Nginx server: https://jorgemario-rest.ddns.net <p>
   <p> - 📫 How to reach me: coachjorgemario@gmail.com <p>
 </div>
 
