@@ -21,7 +21,7 @@
 <div id="header" align="left">
   <p> :soccer: :man_technologist: Hola! 👋 <p>
 <p> My name is Jorge Mario Restrepo and I'm a Data Scientist with empahsis in football (soccer) <p>
-<p> - :sunglasses: I am a junior Data Analyst <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> from New York.<p>
+<p> - :sunglasses: I am a Data Scientist <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> from New York.<p>
   <p> - :brain: Currently working on tracking football (soccer) matches via computer vision and YOLO   <p>
   <p> - :telescope: In the progress of learning C++ to dive into software engineering in the future <p>
   <p> - :sunflower: Visit https://justreframe.com/ A mindfullness startup launched with my sister, Sara Restrepo <p>
